@@ -6,10 +6,7 @@
 
 <font size="1">Image Courtesy: https://www.blinkco.io/wp-content/uploads/2021/08/restaurant-data-analytics-illustration.jpg</font>
 
-Click on the following links to checkout the colab files for all three levels.
-- [Level 1](https://colab.research.google.com/drive/1JVuyT6bDofXq_obv80Iy_nkqQZFHSN4-?usp=sharing)
-- [Level 2](https://colab.research.google.com/drive/1fV1N_iU7yvBwYpTou7ZIuOjk8P2CbL70?usp=sharing)
-- [Level 3](https://colab.research.google.com/drive/1kbmLO9nZF-imFL116jGe-wrWaeTFIeTc?usp=sharing)
+
 
 
 ---
@@ -123,7 +120,7 @@ This comprehensive project journey provided insights into restaurant data, custo
 
 ## Author
 
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
+- [Saran Kumar.S](https://www.linkedin.com/in/saran-kumar-s-sk13022005/)
 
 ---
 
